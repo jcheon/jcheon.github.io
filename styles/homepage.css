@@ -1,19 +1,19 @@
-body {
+* {
     text-align: center;
+}
+
+.main {
+    margin: 0em 20em;
+    /* background-color: red; */
+}
+
+h1 {
+    /* position: relative;
+    left: -50px; */
+    
 }
 
 ul {
-    list-style: none;
-    background: #3399ff; 
-    padding: 10px; 
-    margin: auto;
-}
-
-li {
-    background: #cce5ff; 
-    margin: 5px; 
-    padding: 50px; 
-    padding-left: 100px; 
-    padding-right: 100px;
-    text-align: center;
+    list-style-type: none;
+    padding: 0;
 }
